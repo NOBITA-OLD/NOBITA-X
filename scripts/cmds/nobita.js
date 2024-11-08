@@ -1,6 +1,6 @@
 module.exports = {
  config: {
-	 name: "bayjid",
+	 name: "nobita",
 	 version: "1.0",
 	 author: "AceGun",
 	 countDown: 5,
